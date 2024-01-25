@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "IJ1FjrgCo2yE4x+6jjMeIE24xEg=",
+			"path": "github.com/925044260/C",
+			"revision": "a09f175e6c4dd015f617fc4b77d753f17f6d9557",
+			"revisionTime": "2024-01-25T11:41:33Z"
+		}
+	],
+	"rootPath": "tmp/V_govendor"
+}
