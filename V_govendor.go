@@ -1,4 +1,5 @@
-package main
+// package main
+package V
 
 import (
 	"fmt"
@@ -11,6 +12,6 @@ func V_print() {
 	C.C_print()
 }
 
-func main() {
-	C.C_print()
-}
+// func main() {
+// 	C.C_print()
+// }
